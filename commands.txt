@@ -1,0 +1,224 @@
+Data2.txt
+Error.log
+Error2.log
+Error3.log
+My Profile.docx
+Static/
+Weather.xlsx
+commands.txt
+dir/
+On branch master
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	deleted:    Data.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	Data2.txt
+	commands.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	renamed:    Data.txt -> Data2.txt
+	new file:   commands.txt
+
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	deleted:    Data.txt
+	new file:   commands.txt
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   commands.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	Data2.txt
+
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	deleted:    Data.txt
+	new file:   commands.txt
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   commands.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	Data.txt
+
+[master 4dfcdf1] Renaming Data.txt and rollback without using git
+ 1 file changed, 57 insertions(+)
+ create mode 100644 commands.txt
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   commands.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   commands.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	renamed:    Data.txt -> Data2.txt
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   commands.txt
+
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	renamed:    Data.txt -> Data2.txt
+	modified:   commands.txt
+
+[master 10159c5] Renaming Data.txt to Data2.txt using git
+ 2 files changed, 33 insertions(+)
+ rename Data.txt => Data2.txt (100%)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   commands.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   commands.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	Data3.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   commands.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	Data3.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 6da3f27] Data3.txt was copied from Data2.txt
+ 2 files changed, 35 insertions(+)
+ create mode 100644 Data3.txt
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   commands.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	deleted:    Data3.txt
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   commands.txt
+
+[master d24f6a9] Data3.txt deleted from repository
+ 2 files changed, 20 insertions(+), 3 deletions(-)
+ delete mode 100644 Data3.txt
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   commands.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   .gitignore
+	modified:   commands.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   .gitignore
+	modified:   My Profile.docx
+	modified:   commands.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   .gitignore
+	modified:   My Profile.docx
+	modified:   commands.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+On branch master
+nothing to commit, working tree clean
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   My Profile.docx
+	modified:   commands.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+rm 'My Profile.docx'
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	deleted:    My Profile.docx
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   commands.txt
+
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	deleted:    My Profile.docx
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   .gitignore
+	modified:   commands.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	My Profile.docx
+
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	deleted:    My Profile.docx
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   commands.txt
+
